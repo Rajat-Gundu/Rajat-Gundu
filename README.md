@@ -13,6 +13,10 @@
   <a href="https://github.com/Rajat-Gundu/Data-Analysis-Projects.git" target="_blank" rel="noreferrer"> <img src="http://surl.li/jjoav" 
   width="40" height="40"/> 
   </a> 
+    <!--Website-->
+  <a href="https://rajat-gundu.github.io/Personal-Website/" target="_blank" rel="noreferrer"> <img src="http://surl.li/jjodj" 
+  width="40" height="40"/> 
+  </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
