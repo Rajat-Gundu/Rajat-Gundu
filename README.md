@@ -1,4 +1,4 @@
-![logo](https://github.com/Rajat-Gundu/Rajat-Gundu/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/Rajat-Gundu/Rajat-Gundu/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rajat Gundu</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
