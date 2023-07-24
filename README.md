@@ -1,11 +1,18 @@
-![logo](https://github.com/Rajat-Gundu/Rajat-Gundu/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm Rajat Gundu</h1>
+<!--<img align="center" alt="Analyst Img" width="1000" height="350" src="http://surl.li/jjnyl">-->
+<h1 align="center">Hi 👋🏼, I'm Rajat Gundu</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
 <img align="right" alt="Analyst Img" width="400" src="https://camo.githubusercontent.com/d052bb52bf4ce8c23732e2975f78b7b60c2954b86cbf1e54166be1040e06648d/68747470733a2f2f7777772e736567616c62656e7a2e636f6d2f73697465732f64656661756c742f66696c65732f53422d626c6f672d352d72657365617263682d73746174735f3131323432302d353530783330302e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!--linkedin-->
+  <a href="https://www.linkedin.com/login" target="_blank" rel="noreferrer"> <img src="http://surl.li/jjnzk" width="40" height="40"/> 
+  </a> 
+  <!--Github-->
+  <a href="https://github.com/Rajat-Gundu/Data-Analysis-Projects.git" target="_blank" rel="noreferrer"> <img src="http://surl.li/jjoav" 
+  width="40" height="40"/> 
+  </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
